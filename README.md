@@ -124,6 +124,12 @@ Berikut adalah daftar antarmuka komunikasi (API) yang tersedia pada sistem:
 | :---: | :--- |
 | **Detected** | <img width="1280" height="960" alt="detected" src="https://github.com/user-attachments/assets/987f6f95-bc9f-41eb-ad26-b40b6953797b" /> |
 | **Idle** | <img width="1280" height="960" alt="idle" src="https://github.com/user-attachments/assets/9ebd5801-b0d3-4b62-87a6-bd227ba1abc9" /> |
+| **Admin Panel** | <img width="1920" height="1080" alt="Screenshot 2026-01-16 165211" src="https://github.com/user-attachments/assets/a0df3253-a42f-4e18-9844-9523c6248b84" /> |
+| **Object Detected** | <img width="1920" height="1080" alt="Screenshot 2026-01-16 165107" src="https://github.com/user-attachments/assets/6cd60ff7-34b5-4417-a29e-1cd4a9f08ea7" /> |
+| **No Object** | <img width="1920" height="1080" alt="Screenshot 2026-01-16 165117" src="https://github.com/user-attachments/assets/cb39304b-36ad-476a-98d5-2ced15c816c1" /> |
+
+
+
 
 
 ## ⚠️ Catatan Penting
